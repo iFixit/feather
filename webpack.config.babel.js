@@ -2,7 +2,7 @@ import path from 'path';
 
 export default {
   entry: [
-    'core-js/fn/array/from',
+    // 'core-js/fn/array/from',
     'core-js/fn/object/assign',
     'core-js/fn/set',
     path.resolve(__dirname, 'src/index.js'),
