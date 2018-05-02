@@ -13,7 +13,8 @@
     "test": "jest",
     "cm": "git-cz",
     "precommit": "lint-staged",
-    "commitmsg": "commitlint --edit"
+    "commitmsg": "commitlint --edit",
+    "prepare": "npm run build"
   },
   "config": {
     "commitizen": {
