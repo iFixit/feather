@@ -1,5 +1,5 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="12" height="12" rx="1" transform="translate(3 3) scale(1.5)" stroke="black" stroke-width="2"/>
-<path d="M5.56489 0.820061L0 4V5.5H10V3.5L8.07568 1.25496C7.45137 0.526596 6.39781 0.344106 5.56489 0.820061Z" transform="translate(4.5 11.25) scale(1.5)" fill="black"/>
-<circle cx="1" cy="1" r="1" transform="translate(7.5 7.5) scale(1.5)" fill="black"/>
+<rect width="12" height="12" rx="1" transform="translate(3 3) scale(1.5)" stroke="currentColor" stroke-width="2"/>
+<path d="M5.56489 0.820061L0 4V5.5H10V3.5L8.07568 1.25496C7.45137 0.526596 6.39781 0.344106 5.56489 0.820061Z" transform="translate(4.5 11.25) scale(1.5)" fill="currentColor"/>
+<circle cx="1" cy="1" r="1" transform="translate(7.5 7.5) scale(1.5)" fill="currentColor"/>
 </svg>
