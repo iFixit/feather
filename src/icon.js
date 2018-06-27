@@ -1,5 +1,3 @@
-import classnames from 'classnames/dedupe';
-
 class Icon {
   constructor(name, contents, tags = []) {
     this.name = name;
@@ -15,7 +13,6 @@ class Icon {
   toSvg(attrs = {}) {
     const combinedAttrs = {
       ...attrs,
-      ...{ class: classnames(this.attrs.class, attrs.class) },
     };
 
     return `<svg ${attrsToString(combinedAttrs)}>${this.contents}</svg>`;
