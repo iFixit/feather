@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "Doing feather build"
+set -xeuo pipefail
 
 ./node_modules/.bin/babel-node bin/process-svgs.js
 
